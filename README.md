@@ -1,2 +1,2 @@
 # optimized_private_majority
-Optimized tradeoffs for private majority ensembling
+Code for experiments in "Optimized tradeoffs for private majority ensembling".
